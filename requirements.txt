@@ -1,0 +1,32 @@
+# MatrixVis - 线性代数AI可视化求解系统
+# 依赖列表 - 精确版本控制
+
+# 核心框架
+streamlit==1.28.0
+numpy==1.24.3
+scipy==1.11.1
+
+# 数据处理
+pandas==2.0.3
+openpyxl==3.1.2
+
+# 可视化
+plotly==5.15.0
+matplotlib==3.7.2
+
+# AI模块 - OCR
+paddlepaddle==2.5.1
+paddleocr==2.7.0.3
+pillow==10.0.0
+opencv-python==4.8.0.74
+
+# 知识图谱
+networkx==3.1
+
+# 工具
+python-dateutil==2.8.2
+
+# 开发依赖（可选）
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.1.0
