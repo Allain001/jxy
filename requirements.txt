@@ -26,6 +26,7 @@ paddleocr
 # pillow==10.0.0
 # opencv-python==4.8.0.74
 # opencv-python<=4.6.0.66
+opencv-python-headless>=4.8.0
 
 # 知识图谱
 networkx==3.1
