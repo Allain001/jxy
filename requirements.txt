@@ -7,7 +7,7 @@ openpyxl==3.1.2
 plotly==5.15.0
 matplotlib==3.7.2
 # 使用更兼容的 OpenCV
-# opencv-python==4.5.5.64
+opencv-python
 paddlepaddle==2.6.2
 paddleocr==2.7.0.3
 Pillow==10.0.0
